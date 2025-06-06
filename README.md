@@ -1,24 +1,18 @@
 ##
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gyxuan31/gyxuan31/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gyxuan31/gyxuan31/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gyxuan31/gyxuan31/output/github-contribution-grid-snake.svg">
-</picture>
+<div align=center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gyxuan31/gyxuan31/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gyxuan31/gyxuan31/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gyxuan31/gyxuan31/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td style="border: none; vertical-align: top; width: 50%;">
-      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-      :v:
-    </td>
-    <td style="border: none; vertical-align: top; width: 50%;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyxuan31&hide=mathematica&theme=omni&layout=compact"
-        alt="Top Langs"
-      />
-    </td>
-  </tr>
-</table>
+<img
+  align="right"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyxuan31&hide=mathematica&theme=radical&layout=compact"
+/>
+
+:v:
 
 
 <!--
