@@ -14,7 +14,7 @@
 
 :v:
 <div style="display: inline-flex; align-items: center; white-space: nowrap;">
-  <span> Stay &nbsp;&nbsp;</span>
+  <span> Looking forward to staying&nbsp;&nbsp;</span>
   <a href="https://www.linkedin.com/in/gyuxuan" target="_blank" rel="noopener noreferrer" style="display: inline-block; vertical-align: middle;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="in" style="height: 2em;" />
   </a>
