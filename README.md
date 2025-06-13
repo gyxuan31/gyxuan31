@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/gyuxuan" target="_blank" rel="noopener noreferrer" style="display: inline-block; vertical-align: middle;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="in" style="height: 2em;" />
   </a>
-  <span>&nbsp;&nbsp;touch. :grin:</span>
+  <span>&nbsp;&nbsp;touch! </span>
 </div>
 
 
